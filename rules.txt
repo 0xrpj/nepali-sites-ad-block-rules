@@ -1,3 +1,10 @@
+!Ad block rules for nepali sites!!! <THIS ONE IS UPDATED FREQUENTLY>
+
+!Hamro patro
+||creative.hamropatro.com/img/*.gif$image
+||creative.hamropatro.com/img/*.jpg$image
+
+!setopati
 setopati.com##.full-bigyaapan
 setopati.com##.footer-fixed-bigyaapan
 setopati.com##.mobile-bigyaapan-only
@@ -8,3 +15,48 @@ setopati.com##.desktop-jacket-bigyaapan
 setopati.com##.mobile-jacket-bigyaapan
 setopati.com##.container.mast-head-ad
 setopati.com###inner-jacket
+||img.setopaty.com/uploads/bigyaapan/*.gif$image
+||setopati.com/uploads/bigyapan/*.*$image
+||img.setopati.org/uploads/bigyapan/*.gif$image
+||img.setopati.org/uploads/bigyapan/*.jpg$image
+
+
+!ekantipur
+ekantipur.com##.sticky--bottom__show.sticky--bottom
+ekantipur.com##.portrait.description > .static-sponsor
+ekantipur.com##.row > .static-sponsor
+||assets-cdn.kantipurdaily.com/uploads/source/ads/*.gif$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/*.jpg$image
+
+!annapurna post
+annapurnapost.com##.top_right_ads
+annapurnapost.com##.adbox
+annapurnapost.com##.banner
+annapurnapost.com##.col-xs-12 > div.advertisement
+annapurnapost.com##.sticky-footer
+annapurnapost.com##div.text-center.breaking-news-item:nth-of-type(3) > .advertisement
+annapurnapost.com##div.row:nth-of-type(5) > .advertisement
+annapurnapost.com##div.col-sm-6:nth-of-type(2) > .advertisement
+annapurnapost.com##.firstAd > .advertisement
+annapurnapost.com##[href="http://tatacarsnepal.tk/"]
+||bg.annapurnapost.com/uploads/media/*.gif$image
+
+
+!ujyaalo online
+ujyaaloonline.com##.ads_banner_click
+ujyaaloonline.com##[src="https://unncdn.prixa.net/media/*.jpeg"]
+
+!pahilo post
+||pahilopost.com/*/*/headbanner/
+||pahilopost.com/*/*/homebanner/
+||pahilopost.com/*/*/midadvertise/
+
+!nepali times
+www.nepalitimes.com##.ad-banner-gap
+www.nepalitimes.com##.adv-section
+www.nepalitimes.com##[href="https://www.nibl.com.np/"]
+
+!Himal khabar
+||himalkhabar.com/uploads/banner/
+||www.himalkhabar.com/uploads/bigyapan/*.gif$image
+||www.himalkhabar.com/uploads/bigyapan/*.jpeg$image

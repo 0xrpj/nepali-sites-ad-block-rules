@@ -1,0 +1,10 @@
+setopati.com##.full-bigyaapan
+setopati.com##.footer-fixed-bigyaapan
+setopati.com##.mobile-bigyaapan-only
+setopati.com##.desktop-bigyaapan-only
+setopati.com##.jacket-ad-mobile
+setopati.com##.inner-jacket-mobile
+setopati.com##.desktop-jacket-bigyaapan
+setopati.com##.mobile-jacket-bigyaapan
+setopati.com##.container.mast-head-ad
+setopati.com###inner-jacket
